@@ -1,3 +1,11 @@
+# Fork note
+
+This is a fork of [MatteoSchiavinato's all2vcf](https://github.com/MatteoSchiavinato/all2vcf), created to fix an issue with indel handling when using the tool to convert .snps files from [MUMmer's dnadiff](https://github.com/mummer4/mummer#dnadiff) into VCF format. If you encounter issues with indel handling in the original tool, this fork may resolve them.
+
+The original README follows.
+
+
+
 # all2vcf
 
 Convert common variant formats to VCF format
